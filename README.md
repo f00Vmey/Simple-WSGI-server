@@ -6,3 +6,5 @@
   The window will display a host where the server is being ran.
   Once you go there (might take a while to load) there will be a simple menu.
   Modify this menu by editing "index.html", in "templates"
+
+  (Menu says advanced, even though its not, but you can edit that)
